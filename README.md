@@ -21,10 +21,10 @@ You can follow these steps to [hide the recording indicator on external displays
 
 
 <p align="center">
-  <a href="https://github.com/cormiertyshawn895/RecordingIndicatorUtility/releases/download/2.0/RecordingIndicatorUtility.2.0.zip" alt="Download Recording Indicator Utility"><img width="362" src="RecordingIndicatorUtility/Screenshots/resources/download-button.png" alt="Download Recording Indicator Utility"></a>
+  <a href="https://github.com/rursache/RecordingIndicatorUtility/releases/download/v2.0.1/Recording.Indicator.Utility.zip" alt="Download Recording Indicator Utility"><img width="362" src="RecordingIndicatorUtility/Screenshots/resources/download-button.png" alt="Download Recording Indicator Utility"></a>
 <p>
 <p align="center">
-  <a href="https://github.com/cormiertyshawn895/RecordingIndicatorUtility/releases" alt="View Release Page"><img width="160" src="RecordingIndicatorUtility/Screenshots/resources/release-button.png" alt="View Release Page"></a>
+  <a href="https://github.com/rursache/RecordingIndicatorUtility/releases" alt="View Release Page"><img width="160" src="RecordingIndicatorUtility/Screenshots/resources/release-button.png" alt="View Release Page"></a>
 </p>
 
 ![](RecordingIndicatorUtility/Screenshots/screenshot-animation.gif)
@@ -39,7 +39,7 @@ To open Recording Indicator Utility, navigate to System Settings > Privacy & Sec
 
 ![](RecordingIndicatorUtility/Screenshots/screenshot-gatekeeper.jpg)
 
-Recording Indicator Utility will not harm your Mac. This alert shows up because Recording Indicator Utility modifies macOS and cannot be notarized. Recording Indicator Utility is [open source](https://github.com/cormiertyshawn895/RecordingIndicatorUtility), so you can always [examine its source code](https://github.com/cormiertyshawn895/RecordingIndicatorUtility/tree/master/RecordingIndicatorUtility) to verify its inner working.
+Recording Indicator Utility will not harm your Mac. This alert shows up because Recording Indicator Utility modifies macOS and cannot be notarized. Recording Indicator Utility is [open source](https://github.com/rursache/RecordingIndicatorUtility), so you can always [examine its source code](https://github.com/rursache/RecordingIndicatorUtility/tree/master/RecordingIndicatorUtility) to verify its inner working.
 
 ---
 
